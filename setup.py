@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='Pyrebase',
     version='3.0.27',
-    url='https://github.com/thisbejim/Pyrebase',
+    url='https://github.com/derek-roberson/Pyrebase.git',
     description='A simple python wrapper for the Firebase API',
     author='James Childs-Maidment',
     license='MIT',
